@@ -32,6 +32,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@google/genai": "^0.1.1",
     "audio-decode": "^2.2.2",
     "axios": "^1.3.3",
     "baileys": "git+https://lyfe00011-admin@bitbucket.org/lyfe00011/baileys.git",
